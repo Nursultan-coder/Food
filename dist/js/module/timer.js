@@ -1,4 +1,4 @@
-const deadline = '2020-12-07';
+const deadline = '2021-09-01';
 
     function getTimeRename(endTime) {
         const t = Date.parse(endTime) - Date.parse(new Date());
